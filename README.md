@@ -7,16 +7,11 @@ This repository houses resources and materials for our hands-on workshop coverin
 Workshop Highlights:
 
 🤖 Introduction to Generative AI and its Applications <br>
-🧠 Understanding Large Language Models (LLMs)
-🚀 Hands-on Sessions on Fine-Tuning LLMs
-🎨 Creative Text Generation Challenges
-🛠️ Resources for Further Exploration
-How to Use This Repository:
+🧠 Understanding Large Language Models (LLMs) <br>
+🚀 Hands-on Sessions on Fine-Tuning LLMs <br>
+🎨 Creative Text Generation Challenges<br>
+🛠️ Resources for Further Exploration<br>
 
-👩‍💻 Clone or fork the repository to your local machine.
-📚 Explore the workshop materials in the "Workshop_Content" folder.
-🚀 Dive into the code examples and notebooks for hands-on experience.
-🌐 Connect with the community through discussions and Q&A.
 Join us on the journey of unleashing the power of Generative AI and mastering the nuances of Large Language Model fine-tuning. Let's create, learn, and innovate together!
 
 Happy coding! 🚀✨
