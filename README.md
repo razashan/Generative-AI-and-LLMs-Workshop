@@ -6,7 +6,7 @@ This repository houses resources and materials for our hands-on workshop coverin
 
 Workshop Highlights:
 
-🤖 Introduction to Generative AI and its Applications
+🤖 Introduction to Generative AI and its Applications <br>
 🧠 Understanding Large Language Models (LLMs)
 🚀 Hands-on Sessions on Fine-Tuning LLMs
 🎨 Creative Text Generation Challenges
